@@ -1,0 +1,1 @@
+export const configs = {"PORT":3006,"HOST":"127.0.0.1","SERVICE_PORT":8080,"SERVICE_HOST":"127.0.0.1","CORE_PORT":"8000","CORE_HOST":"127.0.0.1","PROJECT_PATH":"/Users/vt/Desktop/HelloWorld","FAV_ICON":"/Users/vt/Desktop/HelloWorld/dashboard/public/favicon.png","DISABLE_ADMIN":true}
